@@ -1,1 +1,1 @@
-ECHO is on.
+added a new line
